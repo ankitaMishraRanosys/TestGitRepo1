@@ -8,6 +8,8 @@ class Test3{
 
           int c = a*b;
 
+        System.out.println("Multiplying a with b");
+
         System.out.println("Multiplication of a and b is-" + c);
      }
 }
